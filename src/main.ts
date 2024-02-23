@@ -56,7 +56,14 @@ interface Grupos {
   console.log(grupoC.activo);
   console.log(grupoC.genero);
   console.log("**************");
-  
- /*Hola Juan Pablo, tuve unos problemillas creando las ramas, creé una contigo , luego una sola y despues al hacer la tercera 
- me lié y creé una rama dentro de otra o no se que hice y Antonio me ayudo y me dijo que borrara lo anterior y por eso solo aparece una rama"*/
+  console.log(`%c${grupoD.nombre}`, estilonombre);
+  console.log(grupoD.año);
+  console.log(grupoD.activo);
+  console.log(grupoD.genero);
+  console.log("**************");
+  console.log(`%c${grupoE.nombre}`, estilonombre);
+  console.log(grupoE.año);
+  console.log(grupoE.activo);
+  console.log(grupoE.genero);
+  console.log("**************");
 
