@@ -58,5 +58,5 @@ interface Grupos {
   console.log("**************");
   
  /*Hola Juan Pablo, tuve unos problemillas creando las ramas, creé una contigo , luego una sola y despues al hacer la tercera 
- me lié y creé una rama dentro de otra o no se que hice y Antonio me ayudo y me dijo que borrara lo anterior y por eso solo aparece una rama"
+ me lié y creé una rama dentro de otra o no se que hice y Antonio me ayudo y me dijo que borrara lo anterior y por eso solo aparece una rama"*/
 
