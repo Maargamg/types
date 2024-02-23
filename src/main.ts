@@ -46,8 +46,12 @@ interface Grupos {
   console.log(grupoA.activo);
   console.log(grupoA.genero);
   console.log("**************");
-
-  console.log("%c"+grupoB.nombre, estilonombre);
+  console.log(`%c${grupoB.nombre}`, estilonombre);
+  console.log(grupoB.año);
+  console.log(grupoB.activo);
+  console.log(grupoB.genero);
+  console.log("**************");
+  
   
  
 
